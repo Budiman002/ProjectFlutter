@@ -1,0 +1,4 @@
+#Sun Mar 03 19:09:59 WIB 2024
+base.0=C\:\\Users\\Arif\\Downloads\\Documents\\bmi_calculator_app\\bmi_calculator_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
